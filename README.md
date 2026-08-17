@@ -52,7 +52,7 @@ I am setting up a basic virtual lab environment using VirtualBox to practice:
 ---
 
 ## Contact
-- LinkedIn: [sarwat-javaid-631811218]
+- LinkedIn: [www.linkedin.com/in/sarwat-javaid-631811218]
 - Email: [sarwatjjavaid@gmail.com]
 - GitHub: [https://github.com/sarwatjavaid/cybersecurity-portfolio]
 
