@@ -21,6 +21,10 @@ I am currently transitioning into cybersecurity with a strong focus on hands-on 
 - Continuous hands-on practice on TryHackMe
 
 ---
+## Hands-on Practice
+- [TryHackMe Profile](https://tryhackme.com/p/sarwatjavaid) – Completing beginner and intermediate rooms to build practical skills in Linux, networking, and security tools.
+
+---
 
 ## Projects & Labs
 
